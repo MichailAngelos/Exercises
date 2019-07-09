@@ -4,4 +4,4 @@
 
 
 
------------------->Exercises with folders are the ones that they have more than file <-----------------
+------------------>Exercises with folders are the ones that they have more than a file <-----------------
