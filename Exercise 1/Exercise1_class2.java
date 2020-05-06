@@ -4,7 +4,7 @@ class Exercise1_class2 {
    int Am,kod_math;
    double theoria,ergastiria,telikos;
 
-//default Constrauctor   
+//default Constructor   
    Exercise1_class2 (){}
 
    //full constructor
