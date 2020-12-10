@@ -1,0 +1,3 @@
+# Exercises
+
+Beginners Java exercises
